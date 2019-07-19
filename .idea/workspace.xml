@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e3a8da7-e780-4cc3-82c6-66298e752433" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alluredemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/allure-results/ce573b7e-6096-43b6-b43b-10532b66b59a-testsuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/1a06e7a78f0ecec4-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/1cb28f4cb0176010-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/2168813096e5e9d7-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/24cab8af32e709d5-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/254cec0c6f62d9d5-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/28b62115de7bf36e-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/2a3014a3f0db5af-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/2a4461740654da77-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/41d7f528e1f705d4-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/4249ebcd5d3ca596-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/478ffd714e079ba0-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/4cfe70841efb3a7e-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/51ce16ae4fd3a21a-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/54ac406736e2788b-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/558fc35b552b0891-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/56f872c8fa99ed17-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/57168c843c905c98-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/5b0d1c2e690a3981-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/5f8d7e228717e4cb-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/67bcc085495b3f01-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/6d4c543d4a1aaeb0-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/770176877814d7f1-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/787c115f5eed181b-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/8dca7e28d3c9dc05-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/8dcba5c43e726646-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/9a7f8986ceca12a0-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/a04c559e4d39e79-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/a3ab3cc9129f109c-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/a843c16706856953-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/aa474129efc997c9-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/ae52167d605acd34-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/b590089bb5bafc18-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/b6f9e90770398885-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/b8aea16b1eacaa5e-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/bb95d7532611bb00-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/behaviors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/d6f4c81ebc533d9b-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/dc4fd75050c9f519-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/defects.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/e9f4d34e1c9ae1ce-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/environment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/fc02570b0bddd4f3-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/fe8ac5cbc1eb3a4b-testcase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/graph.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/plugins.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/report.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/timeline.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/total.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/widgets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/data/xunit.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/flash/clippy.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/img/allure-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/img/tests_passed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/js/charts/charts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/js/charts/duration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/js/charts/pie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/js/charts/severityMap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/js/charts/timeline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/js/controllers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/js/directives.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/js/filters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/js/overview/widgets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/js/pane/pane.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/js/pluginApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/js/scrollfix/scrollfix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/js/services.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/js/table/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/js/testcase/list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/js/testcase/provider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/js/testcase/statusSwitcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/js/testcase/testcase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/plugins/behaviors/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/plugins/behaviors/ptbr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/plugins/behaviors/ru.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/plugins/behaviors/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/plugins/behaviors/tab.tpl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/plugins/defects/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/plugins/defects/ptbr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/plugins/defects/ru.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/plugins/defects/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/plugins/defects/tab.tpl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/plugins/environment/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/plugins/graph/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/plugins/graph/ptbr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/plugins/graph/ru.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/plugins/graph/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/plugins/graph/tab.tpl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/plugins/timeline/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/plugins/timeline/ptbr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/plugins/timeline/ru.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/plugins/timeline/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/plugins/timeline/tab.tpl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/plugins/total/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/plugins/xunit/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/plugins/xunit/ptbr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/plugins/xunit/ru.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/plugins/xunit/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/plugins/xunit/tab.tpl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/plugins/xunit/testrun.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/plugins/xunit/testsuite.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/templates/overview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/templates/overview/defects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/templates/overview/keyValue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/templates/overview/statistics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/templates/overview/total.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/templates/table/table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/templates/testcase/attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/templates/testcase/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/templates/testcase/status-switcher.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/templates/testcase/testcase.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/templates/testcase/testcaseView.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/translations/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/translations/ptbr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/translations/ru.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/vendor/filesize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/vendor/localstorageprovider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/vendor/messageformat/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/vendor/messageformat/ptbr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/vendor/messageformat/ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/webjars/Sortable/1.2.0/Sortable.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/webjars/Sortable/1.2.0/ng-sortable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/webjars/angular-loading-bar/0.6.0/loading-bar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/webjars/angular-translate-interpolation-messageformat/0.1.2/angular-translate-interpolation-messageformat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/webjars/angular-translate-loader-partial/2.6.0/angular-translate-loader-partial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/webjars/angular-translate/2.6.0/angular-translate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/webjars/angular-ui-bootstrap/0.11.2/ui-bootstrap-tpls.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/webjars/angular-ui-router/0.2.13/angular-ui-router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/webjars/angularjs/1.2.26/angular-animate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/webjars/angularjs/1.2.26/angular.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/webjars/d3js/3.4.11/d3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/webjars/font-awesome/4.2.0/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/webjars/font-awesome/4.2.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/webjars/font-awesome/4.2.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/webjars/font-awesome/4.2.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/webjars/font-awesome/4.2.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/webjars/highlightjs/8.2-1/highlight.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/webjars/jquery/2.1.1/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/allure-maven-plugin/webjars/messageformat.js/0.1.4/messageformat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/css/maven-base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/css/maven-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/css/print.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/css/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/images/collapsed.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/images/expanded.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/images/external.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/images/icon_error_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/images/icon_info_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/images/icon_success_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/images/icon_warning_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/images/logos/build-by-maven-black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/images/logos/build-by-maven-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/images/logos/maven-feather.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/images/newwindow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/2017-05-16_18_56_43/site/project-reports.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2019-07-20T00-22-52_083-jvmRun1.dump" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2019-07-20T00-22-52_083.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2019-07-20T00-25-40_763.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/TestDebug.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/TestDebug.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Demo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/TestDebug.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Demo.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-247567284">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="94" />
+          <entry key="xml" value="42" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="94" />
+          <entry key="XML" value="42" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="76" column="17" lean-forward="true" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../appium/appium-uiautomator2-server" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/Demo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testng.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="allure.demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="allure.demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="allure.demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="allure.demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="clean" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="allure.demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="compiler" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="allure.demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="deploy" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="allure.demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="install" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="allure.demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="jar" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="allure.demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="site" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="allure.demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="surefire" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="allure.demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1364" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="alluredemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alluredemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alluredemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alluredemo" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alluredemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alluredemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alluredemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alluredemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alluredemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alluredemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alluredemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alluredemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563554539406" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e3a8da7-e780-4cc3-82c6-66298e752433" name="Default Changelist" comment="" />
+      <created>1563550622653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563550622653</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34039333" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.09313726" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.18657938" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.18381241" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/testng/xml.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="76" column="17" lean-forward="true" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

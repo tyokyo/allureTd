@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="20" passed="20">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="618" started-at="2019-07-19T16:25:44Z" finished-at="2019-07-19T16:25:45Z">
+    <groups>
+    </groups>
+    <test name="TestDebug" duration-ms="618" started-at="2019-07-19T16:25:44Z" finished-at="2019-07-19T16:25:45Z">
+      <class name="Demo">
+        <test-method status="PASS" signature="test()[pri:0, instance:Demo@108bdbd8]" name="test" duration-ms="163" started-at="2019-07-20T00:25:45Z" finished-at="2019-07-20T00:25:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Demo@108bdbd8]" name="test" duration-ms="10" started-at="2019-07-20T00:25:45Z" finished-at="2019-07-20T00:25:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Demo@108bdbd8]" name="test" duration-ms="0" started-at="2019-07-20T00:25:45Z" finished-at="2019-07-20T00:25:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Demo@108bdbd8]" name="test" duration-ms="0" started-at="2019-07-20T00:25:45Z" finished-at="2019-07-20T00:25:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Demo@108bdbd8]" name="test" duration-ms="0" started-at="2019-07-20T00:25:45Z" finished-at="2019-07-20T00:25:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Demo@108bdbd8]" name="test" duration-ms="0" started-at="2019-07-20T00:25:45Z" finished-at="2019-07-20T00:25:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Demo@108bdbd8]" name="test" duration-ms="10" started-at="2019-07-20T00:25:45Z" finished-at="2019-07-20T00:25:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Demo@108bdbd8]" name="test" duration-ms="0" started-at="2019-07-20T00:25:45Z" finished-at="2019-07-20T00:25:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Demo@108bdbd8]" name="test" duration-ms="0" started-at="2019-07-20T00:25:45Z" finished-at="2019-07-20T00:25:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Demo@108bdbd8]" name="test" duration-ms="0" started-at="2019-07-20T00:25:45Z" finished-at="2019-07-20T00:25:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Demo@108bdbd8]" name="test" duration-ms="0" started-at="2019-07-20T00:25:45Z" finished-at="2019-07-20T00:25:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Demo@108bdbd8]" name="test" duration-ms="10" started-at="2019-07-20T00:25:45Z" finished-at="2019-07-20T00:25:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Demo@108bdbd8]" name="test" duration-ms="0" started-at="2019-07-20T00:25:45Z" finished-at="2019-07-20T00:25:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Demo@108bdbd8]" name="test" duration-ms="0" started-at="2019-07-20T00:25:45Z" finished-at="2019-07-20T00:25:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Demo@108bdbd8]" name="test" duration-ms="0" started-at="2019-07-20T00:25:45Z" finished-at="2019-07-20T00:25:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Demo@108bdbd8]" name="test" duration-ms="0" started-at="2019-07-20T00:25:45Z" finished-at="2019-07-20T00:25:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Demo@108bdbd8]" name="test" duration-ms="10" started-at="2019-07-20T00:25:45Z" finished-at="2019-07-20T00:25:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Demo@108bdbd8]" name="test" duration-ms="0" started-at="2019-07-20T00:25:45Z" finished-at="2019-07-20T00:25:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Demo@108bdbd8]" name="test" duration-ms="0" started-at="2019-07-20T00:25:45Z" finished-at="2019-07-20T00:25:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Demo@108bdbd8]" name="test" duration-ms="0" started-at="2019-07-20T00:25:45Z" finished-at="2019-07-20T00:25:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- Demo -->
+    </test> <!-- TestDebug -->
+  </suite> <!-- Suite -->
+</testng-results>

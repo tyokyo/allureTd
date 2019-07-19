@@ -1,0 +1,68 @@
+{
+  "uid" : "2168813096e5e9d7",
+  "name" : "test:14/20 100%",
+  "title" : "aaa",
+  "time" : {
+    "start" : 1563553545478,
+    "stop" : 1563553545478,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "sssssssssssssssssssss",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : {
+    "name" : "111111111111",
+    "url" : "http://122.225.68.74:8082/browse/111111111111"
+  },
+  "suite" : {
+    "uid" : "dada95d14d83aa9d",
+    "name" : "Suite : TestDebug",
+    "title" : "Suite : TestDebug"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "testSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "test"
+  }, {
+    "name" : "suite-title",
+    "value" : "Suite : TestDebug"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testGroup",
+    "value" : "TestDebug"
+  }, {
+    "name" : "suite-name",
+    "value" : "Suite : TestDebug"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "SKY-20180316NPH"
+  }, {
+    "name" : "thread",
+    "value" : "15780@SKY-20180316NPH.pool-1-thread-1(14)"
+  }, {
+    "name" : "testClass",
+    "value" : "Demo"
+  }, {
+    "name" : "testId",
+    "value" : "111111111111"
+  } ],
+  "parameters" : [ ]
+}

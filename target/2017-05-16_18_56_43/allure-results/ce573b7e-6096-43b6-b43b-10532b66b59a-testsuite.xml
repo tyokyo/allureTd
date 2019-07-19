@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1563553544982" stop="1563553545590" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : TestDebug</name>
+    <title>Suite : TestDebug</title>
+    <test-cases>
+        <test-case start="1563553545408" stop="1563553545428" status="passed">
+            <name>test:1/20 100%</name>
+            <title>aaa</title>
+            <description type="text">sssssssssssssssssssss</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="TestDebug"/>
+                <label name="testClass" value="Demo"/>
+                <label name="testMethod" value="test"/>
+                <label name="testId" value="111111111111"/>
+                <label name="host" value="SKY-20180316NPH"/>
+                <label name="thread" value="15780@SKY-20180316NPH.pool-1-thread-1(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1563553545438" stop="1563553545438" status="passed">
+            <name>test:2/20 100%</name>
+            <title>aaa</title>
+            <description type="text">sssssssssssssssssssss</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="TestDebug"/>
+                <label name="testClass" value="Demo"/>
+                <label name="testMethod" value="test"/>
+                <label name="testId" value="111111111111"/>
+                <label name="host" value="SKY-20180316NPH"/>
+                <label name="thread" value="15780@SKY-20180316NPH.pool-1-thread-1(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1563553545448" stop="1563553545448" status="passed">
+            <name>test:3/20 100%</name>
+            <title>aaa</title>
+            <description type="text">sssssssssssssssssssss</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="TestDebug"/>
+                <label name="testClass" value="Demo"/>
+                <label name="testMethod" value="test"/>
+                <label name="testId" value="111111111111"/>
+                <label name="host" value="SKY-20180316NPH"/>
+                <label name="thread" value="15780@SKY-20180316NPH.pool-1-thread-1(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1563553545448" stop="1563553545448" status="passed">
+            <name>test:4/20 100%</name>
+            <title>aaa</title>
+            <description type="text">sssssssssssssssssssss</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="TestDebug"/>
+                <label name="testClass" value="Demo"/>
+                <label name="testMethod" value="test"/>
+                <label name="testId" value="111111111111"/>
+                <label name="host" value="SKY-20180316NPH"/>
+                <label name="thread" value="15780@SKY-20180316NPH.pool-1-thread-1(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1563553545448" stop="1563553545448" status="passed">
+            <name>test:5/20 100%</name>
+            <title>aaa</title>
+            <description type="text">sssssssssssssssssssss</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="TestDebug"/>
+                <label name="testClass" value="Demo"/>
+                <label name="testMethod" value="test"/>
+                <label name="testId" value="111111111111"/>
+                <label name="host" value="SKY-20180316NPH"/>
+                <label name="thread" value="15780@SKY-20180316NPH.pool-1-thread-1(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1563553545458" stop="1563553545458" status="passed">
+            <name>test:6/20 100%</name>
+            <title>aaa</title>
+            <description type="text">sssssssssssssssssssss</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="TestDebug"/>
+                <label name="testClass" value="Demo"/>
+                <label name="testMethod" value="test"/>
+                <label name="testId" value="111111111111"/>
+                <label name="host" value="SKY-20180316NPH"/>
+                <label name="thread" value="15780@SKY-20180316NPH.pool-1-thread-1(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1563553545458" stop="1563553545458" status="passed">
+            <name>test:7/20 100%</name>
+            <title>aaa</title>
+            <description type="text">sssssssssssssssssssss</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="TestDebug"/>
+                <label name="testClass" value="Demo"/>
+                <label name="testMethod" value="test"/>
+                <label name="testId" value="111111111111"/>
+                <label name="host" value="SKY-20180316NPH"/>
+                <label name="thread" value="15780@SKY-20180316NPH.pool-1-thread-1(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1563553545458" stop="1563553545458" status="passed">
+            <name>test:8/20 100%</name>
+            <title>aaa</title>
+            <description type="text">sssssssssssssssssssss</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="TestDebug"/>
+                <label name="testClass" value="Demo"/>
+                <label name="testMethod" value="test"/>
+                <label name="testId" value="111111111111"/>
+                <label name="host" value="SKY-20180316NPH"/>
+                <label name="thread" value="15780@SKY-20180316NPH.pool-1-thread-1(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1563553545468" stop="1563553545468" status="passed">
+            <name>test:9/20 100%</name>
+            <title>aaa</title>
+            <description type="text">sssssssssssssssssssss</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="TestDebug"/>
+                <label name="testClass" value="Demo"/>
+                <label name="testMethod" value="test"/>
+                <label name="testId" value="111111111111"/>
+                <label name="host" value="SKY-20180316NPH"/>
+                <label name="thread" value="15780@SKY-20180316NPH.pool-1-thread-1(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1563553545468" stop="1563553545468" status="passed">
+            <name>test:10/20 100%</name>
+            <title>aaa</title>
+            <description type="text">sssssssssssssssssssss</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="TestDebug"/>
+                <label name="testClass" value="Demo"/>
+                <label name="testMethod" value="test"/>
+                <label name="testId" value="111111111111"/>
+                <label name="host" value="SKY-20180316NPH"/>
+                <label name="thread" value="15780@SKY-20180316NPH.pool-1-thread-1(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1563553545468" stop="1563553545468" status="passed">
+            <name>test:11/20 100%</name>
+            <title>aaa</title>
+            <description type="text">sssssssssssssssssssss</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="TestDebug"/>
+                <label name="testClass" value="Demo"/>
+                <label name="testMethod" value="test"/>
+                <label name="testId" value="111111111111"/>
+                <label name="host" value="SKY-20180316NPH"/>
+                <label name="thread" value="15780@SKY-20180316NPH.pool-1-thread-1(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1563553545478" stop="1563553545478" status="passed">
+            <name>test:12/20 100%</name>
+            <title>aaa</title>
+            <description type="text">sssssssssssssssssssss</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="TestDebug"/>
+                <label name="testClass" value="Demo"/>
+                <label name="testMethod" value="test"/>
+                <label name="testId" value="111111111111"/>
+                <label name="host" value="SKY-20180316NPH"/>
+                <label name="thread" value="15780@SKY-20180316NPH.pool-1-thread-1(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1563553545478" stop="1563553545478" status="passed">
+            <name>test:13/20 100%</name>
+            <title>aaa</title>
+            <description type="text">sssssssssssssssssssss</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="TestDebug"/>
+                <label name="testClass" value="Demo"/>
+                <label name="testMethod" value="test"/>
+                <label name="testId" value="111111111111"/>
+                <label name="host" value="SKY-20180316NPH"/>
+                <label name="thread" value="15780@SKY-20180316NPH.pool-1-thread-1(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1563553545478" stop="1563553545478" status="passed">
+            <name>test:14/20 100%</name>
+            <title>aaa</title>
+            <description type="text">sssssssssssssssssssss</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="TestDebug"/>
+                <label name="testClass" value="Demo"/>
+                <label name="testMethod" value="test"/>
+                <label name="testId" value="111111111111"/>
+                <label name="host" value="SKY-20180316NPH"/>
+                <label name="thread" value="15780@SKY-20180316NPH.pool-1-thread-1(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1563553545478" stop="1563553545478" status="passed">
+            <name>test:15/20 100%</name>
+            <title>aaa</title>
+            <description type="text">sssssssssssssssssssss</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="TestDebug"/>
+                <label name="testClass" value="Demo"/>
+                <label name="testMethod" value="test"/>
+                <label name="testId" value="111111111111"/>
+                <label name="host" value="SKY-20180316NPH"/>
+                <label name="thread" value="15780@SKY-20180316NPH.pool-1-thread-1(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1563553545488" stop="1563553545488" status="passed">
+            <name>test:16/20 100%</name>
+            <title>aaa</title>
+            <description type="text">sssssssssssssssssssss</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="TestDebug"/>
+                <label name="testClass" value="Demo"/>
+                <label name="testMethod" value="test"/>
+                <label name="testId" value="111111111111"/>
+                <label name="host" value="SKY-20180316NPH"/>
+                <label name="thread" value="15780@SKY-20180316NPH.pool-1-thread-1(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1563553545498" stop="1563553545498" status="passed">
+            <name>test:17/20 100%</name>
+            <title>aaa</title>
+            <description type="text">sssssssssssssssssssss</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="TestDebug"/>
+                <label name="testClass" value="Demo"/>
+                <label name="testMethod" value="test"/>
+                <label name="testId" value="111111111111"/>
+                <label name="host" value="SKY-20180316NPH"/>
+                <label name="thread" value="15780@SKY-20180316NPH.pool-1-thread-1(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1563553545498" stop="1563553545498" status="passed">
+            <name>test:18/20 100%</name>
+            <title>aaa</title>
+            <description type="text">sssssssssssssssssssss</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="TestDebug"/>
+                <label name="testClass" value="Demo"/>
+                <label name="testMethod" value="test"/>
+                <label name="testId" value="111111111111"/>
+                <label name="host" value="SKY-20180316NPH"/>
+                <label name="thread" value="15780@SKY-20180316NPH.pool-1-thread-1(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1563553545498" stop="1563553545498" status="passed">
+            <name>test:19/20 100%</name>
+            <title>aaa</title>
+            <description type="text">sssssssssssssssssssss</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="TestDebug"/>
+                <label name="testClass" value="Demo"/>
+                <label name="testMethod" value="test"/>
+                <label name="testId" value="111111111111"/>
+                <label name="host" value="SKY-20180316NPH"/>
+                <label name="thread" value="15780@SKY-20180316NPH.pool-1-thread-1(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1563553545498" stop="1563553545508" status="passed">
+            <name>test:20/20 100%</name>
+            <title>aaa</title>
+            <description type="text">sssssssssssssssssssss</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="TestDebug"/>
+                <label name="testClass" value="Demo"/>
+                <label name="testMethod" value="test"/>
+                <label name="testId" value="111111111111"/>
+                <label name="host" value="SKY-20180316NPH"/>
+                <label name="thread" value="15780@SKY-20180316NPH.pool-1-thread-1(14)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
